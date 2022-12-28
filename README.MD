@@ -1,4 +1,4 @@
-# hello world
+# hello
 
 大家好这是我的个人分享manim代码的仓库
 
